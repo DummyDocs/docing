@@ -1,1 +1,7 @@
 site_name: My Docs
+pages:
+  - Home: index.md
+  - Spiral: spiral/readme.md
+  - Pyramid: pyramid/readme.md
+  - Pharao: pharao/readme.md
+theme: readthedocs
