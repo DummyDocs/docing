@@ -1,9 +1,9 @@
 [submodule "_projects/spiral"]
 	path = _projects/spiral
-	url = /Volumes/Sensation/source/docsdummies/spiral
+	url = https://github.com/DummyDocs/spiral.git
 [submodule "_projects/pyramid"]
 	path = _projects/pyramid
-	url = /Volumes/Sensation/source/docsdummies/pyramid/
+	url = https://github.com/DummyDocs/pyramid.git
 [submodule "_projects/pharao"]
 	path = _projects/pharao
-	url = /Volumes/Sensation/source/docsdummies/pharao
+	url = https://github.com/DummyDocs/pharao.git
