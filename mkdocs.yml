@@ -1,28 +1,2 @@
 site_name: My Docs
-pages:
-  - Home: index.md
-  - Spiral:
-    - Home: spiral/readme.md
-    - Guides:
-      - Api: spiral/guides/api.md
-      - 'Single Page': spiral/guides/single_page.md
-      - 'Static Pages': spiral/guides/static_pages.md
-    - Advanced: spiral/advanced.md
-    - Structure: spiral/structure.md
-  - Pyramid:
-    - Home: spiral/readme.md
-    - Guides:
-      - Api: spiral/guides/api.md
-      - 'Single Page': spiral/guides/single_page.md
-      - 'Static Pages': spiral/guides/static_pages.md
-    - Advanced: spiral/advanced.md
-    - Structure: spiral/structure.md
-  - Pharao:
-    - Home: spiral/readme.md
-    - Guides:
-      - Api: spiral/guides/api.md
-      - 'Single Page': spiral/guides/single_page.md
-      - 'Static Pages': spiral/guides/static_pages.md
-    - Advanced: spiral/advanced.md
-    - Structure: spiral/structure.md
-theme: readthedocs
+theme: material
